@@ -105,8 +105,6 @@
 
     }
 
-// });
-
 fetchImgs()
 fetchBreeds()
    
